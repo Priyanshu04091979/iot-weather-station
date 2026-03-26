@@ -21,7 +21,6 @@ Real-time weather monitoring system using **Arduino UNO R4 WiFi** and **DHT22 se
 - Shashwat Bhadauria
 - Kush Patel
 - Pradip Prajapati
-- Satvik Srivastav
 
 ## Affiliation
 IEEE Student Branch, Indrashil University | 2026
