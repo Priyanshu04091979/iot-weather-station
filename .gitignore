@@ -1,10 +1,10 @@
+# Folders not needed on GitHub
+docs/
+scripts/
+
 # Temporary/generated files
 *.tmp
 *.log
-fix_unicode.py
-poster_to_pdf.py
-poster_presentation.py
-md_to_pdf.py
 
 # System files
 Thumbs.db
